@@ -38,3 +38,6 @@ To create a YouTube Shorts video, follow these steps:
 
 Contributions to this project are welcome! If you have improvements or bug fixes, please feel free to fork the repository and submit a pull request. Your contributions can help make this project even better.
 
+## License
+
+This project is open-sourced under the MIT License. See the LICENSE file for more information.
